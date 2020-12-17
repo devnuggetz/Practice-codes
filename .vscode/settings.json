@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "__config": "cpp",
+        "functional": "cpp",
+        "memory": "cpp",
+        "__hash_table": "cpp",
+        "__locale": "cpp",
+        "__threading_support": "cpp",
+        "algorithm": "cpp",
+        "locale": "cpp",
+        "string": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "iostream": "cpp"
+    }
+}
